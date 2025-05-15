@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12D96B-3484-40DA-A7DA-B9D1F26C9F79}|Week2Exercise2\\Week2Exercise2.vcxproj|C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\Week2Exercise2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12D96B-3484-40DA-A7DA-B9D1F26C9F79}|Week2Exercise2\\Week2Exercise2.vcxproj|solutionrelative:Week2Exercise2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12D96B-3484-40DA-A7DA-B9D1F26C9F79}|Week2Exercise2\\Week2Exercise2.vcxproj|C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\Week2Exercise2\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12D96B-3484-40DA-A7DA-B9D1F26C9F79}|Week2Exercise2\\Week2Exercise2.vcxproj|solutionrelative:Week2Exercise2\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12D96B-3484-40DA-A7DA-B9D1F26C9F79}|Week2Exercise2\\Week2Exercise2.vcxproj|C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\Week2Exercise2\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12D96B-3484-40DA-A7DA-B9D1F26C9F79}|Week2Exercise2\\Week2Exercise2.vcxproj|solutionrelative:Week2Exercise2\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12D96B-3484-40DA-A7DA-B9D1F26C9F79}|Week2Exercise2\\Week2Exercise2.vcxproj|C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\Week2Exercise2\\Characters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12D96B-3484-40DA-A7DA-B9D1F26C9F79}|Week2Exercise2\\Week2Exercise2.vcxproj|solutionrelative:Week2Exercise2\\Characters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12D96B-3484-40DA-A7DA-B9D1F26C9F79}|Week2Exercise2\\Week2Exercise2.vcxproj|C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\Week2Exercise2\\Characters.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12D96B-3484-40DA-A7DA-B9D1F26C9F79}|Week2Exercise2\\Week2Exercise2.vcxproj|solutionrelative:Week2Exercise2\\Characters.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12D96B-3484-40DA-A7DA-B9D1F26C9F79}|Week2Exercise2\\Week2Exercise2.vcxproj|C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\Week2Exercise2\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12D96B-3484-40DA-A7DA-B9D1F26C9F79}|Week2Exercise2\\Week2Exercise2.vcxproj|solutionrelative:Week2Exercise2\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A12D96B-3484-40DA-A7DA-B9D1F26C9F79}|Week2Exercise2\\Week2Exercise2.vcxproj|C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\Week2Exercise2\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A12D96B-3484-40DA-A7DA-B9D1F26C9F79}|Week2Exercise2\\Week2Exercise2.vcxproj|solutionrelative:Week2Exercise2\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\Week2Exercise2\\main.cpp",
+              "RelativeDocumentMoniker": "Week2Exercise2\\main.cpp",
+              "ToolTip": "C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\Week2Exercise2\\main.cpp",
+              "RelativeToolTip": "Week2Exercise2\\main.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T18:28:36.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\Week2Exercise2\\Enemy.cpp",
+              "RelativeDocumentMoniker": "Week2Exercise2\\Enemy.cpp",
+              "ToolTip": "C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\Week2Exercise2\\Enemy.cpp",
+              "RelativeToolTip": "Week2Exercise2\\Enemy.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T20:43:55.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\Week2Exercise2\\Enemy.h",
+              "RelativeDocumentMoniker": "Week2Exercise2\\Enemy.h",
+              "ToolTip": "C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\Week2Exercise2\\Enemy.h",
+              "RelativeToolTip": "Week2Exercise2\\Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T20:41:10.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\Week2Exercise2\\Player.h",
+              "RelativeDocumentMoniker": "Week2Exercise2\\Player.h",
+              "ToolTip": "C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\Week2Exercise2\\Player.h",
+              "RelativeToolTip": "Week2Exercise2\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-05T17:25:20.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\Week2Exercise2\\Player.cpp",
+              "RelativeDocumentMoniker": "Week2Exercise2\\Player.cpp",
+              "ToolTip": "C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\Week2Exercise2\\Player.cpp",
+              "RelativeToolTip": "Week2Exercise2\\Player.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-05T17:42:55.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Characters.h",
+              "DocumentMoniker": "C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\Week2Exercise2\\Characters.h",
+              "RelativeDocumentMoniker": "Week2Exercise2\\Characters.h",
+              "ToolTip": "C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\Week2Exercise2\\Characters.h",
+              "RelativeToolTip": "Week2Exercise2\\Characters.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-05T15:36:21.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Characters.cpp",
+              "DocumentMoniker": "C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\Week2Exercise2\\Characters.cpp",
+              "RelativeDocumentMoniker": "Week2Exercise2\\Characters.cpp",
+              "ToolTip": "C:\\Users\\yangm\\OneDrive\\\u684C\u9762\\A_day\\Vertex\\Week2Exercise2\\Week2Exercise2\\Characters.cpp",
+              "RelativeToolTip": "Week2Exercise2\\Characters.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-09T17:55:26.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
